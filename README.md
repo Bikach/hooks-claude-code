@@ -12,7 +12,7 @@ Pas de probabilité, pas d'oubli. Le hook s'exécute à chaque fois, sans except
 
 | Hook | Description | Lien |
 |------|-------------|------|
-| **Notification macOS** | Notification native + son quand Claude termine une tâche | [Voir le hook](./notification-macos/) |
+| **Notification macOS** | Notification native + son quand Claude termine une tâche | [Voir le hook](./notification) |
 
 ## Comment ça marche ?
 
