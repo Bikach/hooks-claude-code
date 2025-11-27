@@ -2,8 +2,6 @@
 
 Reçois une notification native macOS + un son quand Claude Code t'envoie une notification.
 
-![example-notification.png](example-notification.png)
-
 ## Sons
 
 | Contexte | Son |
@@ -52,3 +50,9 @@ Modifier les sons dans le script. Sons disponibles :
 ```bash
 ls /System/Library/Sounds/
 ```
+
+## Exemples de notifications:
+
+![example-notification.png](assets/example-notification.png)
+![notification-example-2.png](assets/notification-example-2.png)
+![notification-example-3.png](assets/notification-example-3.png)
